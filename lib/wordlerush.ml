@@ -510,13 +510,21 @@ module WordleRush = struct
     Lwt.return (print_newline ()) >>= fun () ->
     Lwt.return (print_string "Enter 'H' for a hint or 'G' to give up \n")
     >>= fun () ->
-    Lwt.return (Printf.printf "Attempts left: %d\n" attempts_left) >>= fun () ->
-    Lwt.return (print_newline ()) >>= fun () ->
-    Lwt.return (Printf.printf "Letters: ") >>= fun () ->
+    Lwt.return (Printf.printf "Attempts left: ") >>= fun () ->
+    Lwt.return
+      (ANSITerminal.print_string [ ANSITerminal.Bold ]
+         (string_of_int attempts_left))
+    >>= fun () ->
+    Lwt.return (double_newline ()) >>= fun () ->
+    Lwt.return
+      (ANSITerminal.print_string [ ANSITerminal.Bold ] "     Keyboard:")
+    >>= fun () ->
     Lwt.return (print_keyboard_chars guess_lst target_word qwerty_hash)
     >>= fun () ->
-    Lwt.return (print_newline ()) >>= fun () ->
-    Lwt.return (print_string "Enter your guess: ") >>= fun () ->
+    Lwt.return (double_newline ()) >>= fun () ->
+    Lwt.return
+      (ANSITerminal.print_string [ ANSITerminal.Bold ] "Enter your guess: ")
+    >>= fun () ->
     Lwt.return (flush stdout) >>= fun () ->
     lwt_read_line () >>= fun guess ->
     let input = String.trim (String.lowercase_ascii guess) in
@@ -598,9 +606,10 @@ module WordleRush = struct
       Lwt.return (Printf.printf "Your score is : %i" !current_player.score)
       >>= fun () ->
       Lwt.return (print_newline ()) >>= fun () ->
+      Lwt.return (Printf.printf "Your overall score is : ") >>= fun () ->
       Lwt.return
-        (Printf.printf "Your overall score is : %i"
-           !current_player.cumlative_score)
+        (ANSITerminal.print_string [ ANSITerminal.Bold ]
+           (string_of_int !current_player.cumlative_score))
       >>= fun () ->
       Lwt.return (double_newline ()) >>= fun () -> restart_game ()
     else process_guess target_word attempts_left guess_lst
