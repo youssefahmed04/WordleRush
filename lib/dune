@@ -1,0 +1,4 @@
+(library
+ (name wordlerush)
+ (public_name wordlerush)
+ (libraries ANSITerminal lwt lwt_ssl))
