@@ -1,6 +1,6 @@
 # Steps to run our wordle game:
 
-1. Make sure you are in the /final directory
+1. Make sure you are in the /WordleRush directory
 2. Run [opam install ANSITerminal] to install the ANSITerminal module
 3. Run [opam install lwt_ssl]
 4. Run [opam install lwt]
