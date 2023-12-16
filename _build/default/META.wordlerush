@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal lwt lwt_ssl"
+archive(byte) = "wordlerush.cma"
+archive(native) = "wordlerush.cmxa"
+plugin(byte) = "wordlerush.cma"
+plugin(native) = "wordlerush.cmxs"

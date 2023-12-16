@@ -24,7 +24,7 @@ module WordleRush = struct
 
   let cat_hash = Hashtbl.create 1
   let () = Hashtbl.add cat_hash 1 Blank
-  let lwt_read_line () = Lwt_io.read_line Lwt_io.stdin
+  let lwt_read_line () : string Lwt.t = Lwt_io.read_line Lwt_io.stdin
 
   let rec select_category () : unit =
     print_newline ();
@@ -153,14 +153,59 @@ module WordleRush = struct
     reset_Hashtbl qwerty_hash;
     print_newline ();
     !current_player.score <- 0;
+    print_newline ();
     Printf.printf
-      "          \n\
-      \  _ _ _     _                      _____        _ _ _           _ _     \n\
-      \ | | | |___| |___ ___ _____ ___   |_   _|___   | | | |___ ___ _| | |___ \n\
-      \ | | | | -_| |  _| . |     | -_|    | | | . |  | | | | . |  _| . | | -_|\n\
-      \ |_____|___|_|___|___|_|_|_|___|    |_| |___|  |_____|___|_| \
-       |___|_|___|          \n\
-      \  ";
+      "               .---.                              ,--,             \
+       ,-.----.                              ,---,     \n\
+      \    ";
+    Printf.printf
+      "          /. ./|                       ,---,,--.'|             \\    /  \
+       \\                           ,--.' |     \n\
+      \    ";
+    Printf.printf
+      "      .--'.  ' ;   ,---.    __  ,-.  ,---.'||  | :             ;   :    \
+       \\          ,--,            |  |  :     \n\
+      \    ";
+    Printf.printf
+      "     /__./ \\ : |  '   ,'\\ ,' ,'/ /|  |   | ::  : '             |   | \
+       .\\ :        ,'_ /|   .--.--.  :  :  :     \n\
+      \    ";
+    Printf.printf
+      " .--'.  '   \\' . /   /   |'  | |' |  |   | ||  ' |      ,---.  .   : \
+       |: |   .--. |  | :  /  /    ' :  |  |,--. \n\
+      \    ";
+    Printf.printf
+      "/___/ \\ |    ' '.   ; ,. :|  |   ,',--.__| |'  | |     /     \\ |   |  \
+       \\ : ,'_ /| :  . | |  :  /`./ |  :  '   | \n\
+      \    ";
+    Printf.printf
+      ";   \\  \\;      :'   | |: :'  :  / /   ,'   ||  | :    /    /  ||   : \
+       .  / |  ' | |  . . |  :  ;_   |  |   /' : \n\
+      \    ";
+    Printf.printf
+      " \\   ;  `      |'   | .; :|  | ' .   '  /  |'  : |__ .    ' / |;   | \
+       |  \\ |  | ' |  | |  \\  \\    `.'  :  | | | \n\
+      \    ";
+    Printf.printf
+      "  .   \\    .\\  ;|   :    |;  : | '   ; |:  ||  | '.'|'   ;   /||   | \
+       ;\\  \\:  | : ;  ; |   `----.   \\  |  ' | : \n\
+      \    ";
+    Printf.printf
+      "   \\   \\   ' \\ | \\   \\  / |  , ; |   | '/  ';  :    ;'   |  / |:   \
+       ' | \\.''  :  `--'   \\ /  /`--'  /  :  :_:,' \n\
+      \    ";
+    Printf.printf
+      "    :   '  |--\"   `----'   ---'  |   :    :||  ,   / |   :    |:   : \
+       :-'  :  ,      .-./'--'.     /|  | ,'     \n\
+      \    ";
+    Printf.printf
+      "     \\   \\ ;                      \\   \\  /   ---`-'   \\   \\  / \
+       |   |.'     `--`----'      `--'---' `--''       \n\
+      \    ";
+    Printf.printf
+      "      '---\"                        `----'              `----'  \
+       `---'                                           \n\
+      \    ";
     print_newline ();
     settings_menu ();
     print_newline ()

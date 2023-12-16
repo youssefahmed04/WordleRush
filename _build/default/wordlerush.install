@@ -1,0 +1,20 @@
+lib: [
+  "_build/install/default/lib/wordlerush/META"
+  "_build/install/default/lib/wordlerush/dune-package"
+  "_build/install/default/lib/wordlerush/opam"
+  "_build/install/default/lib/wordlerush/wordlerush.a"
+  "_build/install/default/lib/wordlerush/wordlerush.cma"
+  "_build/install/default/lib/wordlerush/wordlerush.cmi"
+  "_build/install/default/lib/wordlerush/wordlerush.cmt"
+  "_build/install/default/lib/wordlerush/wordlerush.cmti"
+  "_build/install/default/lib/wordlerush/wordlerush.cmx"
+  "_build/install/default/lib/wordlerush/wordlerush.cmxa"
+  "_build/install/default/lib/wordlerush/wordlerush.ml"
+  "_build/install/default/lib/wordlerush/wordlerush.mli"
+]
+libexec: [
+  "_build/install/default/lib/wordlerush/wordlerush.cmxs"
+]
+doc: [
+  "_build/install/default/doc/wordlerush/README.md"
+]

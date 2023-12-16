@@ -1,0 +1,27 @@
+opam-version: "2.0"
+synopsis: "A short synopsis"
+description: "A longer description"
+authors: ["Youssef Ahmed, Bassem Qassem, Nedim Abdelaziz, Mohammad Labadi"]
+license: "LICENSE"
+homepage: "https://github.com/youssefahmed04/WordleRush.git"
+depends: [
+  "ocaml"
+  "dune" {>= "3.10"}
+  "odoc" {with-doc}
+  "ANSITerminal"
+]
+build: [
+  ["dune" "subst"] {dev}
+  [
+    "dune"
+    "build"
+    "-p"
+    name
+    "-j"
+    jobs
+    "@install"
+    "@runtest" {with-test}
+    "@doc" {with-doc}
+  ]
+]
+dev-repo: "git+https://github.com/username/reponame.git"

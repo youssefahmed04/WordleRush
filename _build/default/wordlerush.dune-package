@@ -1,0 +1,36 @@
+(lang dune 3.12)
+(name wordlerush)
+(sections (lib .) (libexec .) (doc ../../doc/wordlerush))
+(files
+ (lib
+  (META
+   dune-package
+   opam
+   wordlerush.a
+   wordlerush.cma
+   wordlerush.cmi
+   wordlerush.cmt
+   wordlerush.cmti
+   wordlerush.cmx
+   wordlerush.cmxa
+   wordlerush.ml
+   wordlerush.mli))
+ (libexec (wordlerush.cmxs))
+ (doc (README.md)))
+(library
+ (name wordlerush)
+ (kind normal)
+ (archives (byte wordlerush.cma) (native wordlerush.cmxa))
+ (plugins (byte wordlerush.cma) (native wordlerush.cmxs))
+ (native_archives wordlerush.a)
+ (requires ANSITerminal lwt lwt_ssl)
+ (main_module_name Wordlerush)
+ (modes byte native)
+ (modules
+  (singleton
+   (obj_name wordlerush)
+   (visibility public)
+   (source
+    (path Wordlerush)
+    (intf (path wordlerush.mli))
+    (impl (path wordlerush.ml))))))
