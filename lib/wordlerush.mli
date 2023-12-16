@@ -1,4 +1,4 @@
-(** module WordleGame is a Wordle game loop with multiple game categories,
+(** module WordleRush is a Wordle game loop with multiple game categories,
     difficulty levels.*)
 module WordleRush : sig
   (** Game category is the type of wordle game that the user can play. It could

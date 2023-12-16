@@ -1,3 +1,5 @@
+.PHONY: test check
+
 build:
 	dune build
 
@@ -21,11 +23,11 @@ clean: bisect-clean
 	rm -f search.zip
 
 zip:
-	rm -f wordle.zip
-	zip -r wordle.zip . -x@exclude.lst
+	rm -f wordlerush.zip
+	zip -r wordlerush.zip . -x@exclude.lst
 	
 test:
-	OCAMLRUNPARAM=b dune exec test/final.exe
+	OCAMLRUNPARAM=b dune exec test/test.exe
 
 doc:
 	dune build @doc

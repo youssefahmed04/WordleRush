@@ -1,0 +1,255 @@
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:1:Test is_valid_word | word not of length 5.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:1:Test is_valid_word | word not of length 5 is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:1:Test is_valid_word | word not of length 5.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:3:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:3:Test is_valid_word | valid word with uppercase letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:3:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:5:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:5:Test is_valid_word | empty word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:5:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:7:Test is_valid_word | word not of length 4.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:7:Test is_valid_word | word not of length 4 is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:7:Test is_valid_word | word not of length 4.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:9:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:9:Test is_valid_word | valid word with uppercase letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:9:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:11:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:11:Test is_valid_word | empty word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:11:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:13:Test is_valid_word | word not of length 6.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:13:Test is_valid_word | word not of length 6 is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:13:Test is_valid_word | word not of length 6.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:15:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:15:Test is_valid_word | valid word with uppercase letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:15:Test is_valid_word | valid word with uppercase letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:17:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:17:Test is_valid_word | empty word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:17:Test is_valid_word | empty word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:19:Test is_correct_guess | words do not match.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:19:Test is_correct_guess | words do not match is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:19:Test is_correct_guess | words do not match.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:21:Test is_correct_guess | matching words with leading and trailing spaces.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:21:Test is_correct_guess | matching words with leading and trailing spaces is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:21:Test is_correct_guess | matching words with leading and trailing spaces.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:23:Test is_correct_guess | matching empty words.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:23:Test is_correct_guess | matching empty words is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:23:Test is_correct_guess | matching empty words.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:25:Test is_correct_guess | words do not match with different lengths.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:25:Test is_correct_guess | words do not match with different lengths is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:25:Test is_correct_guess | words do not match with different lengths.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:27:Test get_max_attempts | medium attempt.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:27:Test get_max_attempts | medium attempt is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:27:Test get_max_attempts | medium attempt.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:29:Test read_file | empty file with no text.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:29:Test read_file | empty file with no text is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:29:Test read_file | empty file with no text.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:31:test_read_file | non-empty file/multiple lines.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:31:test_read_file | non-empty file/multiple lines is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:31:test_read_file | non-empty file/multiple lines.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:33:test_read_file | non-empty file with special characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:33:test_read_file | non-empty file with special characters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:33:test_read_file | non-empty file with special characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:35:Test correct_letters_score | 6 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:35:Test correct_letters_score | 6 correct letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:35:Test correct_letters_score | 6 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:37:Test correct_letters_score | 4 correct letter.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:37:Test correct_letters_score | 4 correct letter is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:37:Test correct_letters_score | 4 correct letter.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:39:Test correct_letters_score | 2 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:39:Test correct_letters_score | 2 correct letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:39:Test correct_letters_score | 2 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:41:Test correct_letters_score | 0 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:41:Test correct_letters_score | 0 correct letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:41:Test correct_letters_score | 0 correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:42:Test char_to_string | empty character_to_string.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:42:Test char_to_string | empty character_to_string is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:42:Test char_to_string | empty character_to_string.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:44:Test char_list_to_string | multiple characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:44:Test char_list_to_string | multiple characters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:44:Test char_list_to_string | multiple characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:46:Test char_list_to_string | special characters and digits.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:46:Test char_list_to_string | special characters and digits is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:46:Test char_list_to_string | special characters and digits.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:48:Test remove_duplicates | list with no duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:48:Test remove_duplicates | list with no duplicates is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:48:Test remove_duplicates | list with no duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:50:Test remove_duplicates | list with duplicates at the end.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:50:Test remove_duplicates | list with duplicates at the end is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:50:Test remove_duplicates | list with duplicates at the end.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:52:Test remove_duplicates | list with non-consecutive duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:52:Test remove_duplicates | list with non-consecutive duplicates is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:52:Test remove_duplicates | list with non-consecutive duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:54:Test remove_duplicates | list with all duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:54:Test remove_duplicates | list with all duplicates is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:54:Test remove_duplicates | list with all duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:56:Test overall_correct_letters | no correct letters in the guessed word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:56:Test overall_correct_letters | no correct letters in the guessed word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:56:Test overall_correct_letters | no correct letters in the guessed word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:58:Test overall_correct_letters | correct letters and correct positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:58:Test overall_correct_letters | correct letters and correct positions is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:58:Test overall_correct_letters | correct letters and correct positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:60:Test overall_correct_letters | correct letters and extra correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:60:Test overall_correct_letters | correct letters and extra correct letters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:60:Test overall_correct_letters | correct letters and extra correct letters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:62:Test overall_correct_letters | empty correct letters and correct positions list.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:62:Test overall_correct_letters | empty correct letters and correct positions list is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:62:Test overall_correct_letters | empty correct letters and correct positions list.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:64:Test overall_correct_letters | empty guessed word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:64:Test overall_correct_letters | empty guessed word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:64:Test overall_correct_letters | empty guessed word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:66:Test overall_correct_letters | correct letters and correct positions with duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:66:Test overall_correct_letters | correct letters and correct positions with duplicates is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:66:Test overall_correct_letters | correct letters and correct positions with duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:68:Test overall_correct_letters | correct letters with duplicates and correct positions with duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:68:Test overall_correct_letters | correct letters with duplicates and correct positions with duplicates is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:68:Test overall_correct_letters | correct letters with duplicates and correct positions with duplicates.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:70:Test overall_correct_letters | guessed word longer than list of pairs.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:70:Test overall_correct_letters | guessed word longer than list of pairs is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:70:Test overall_correct_letters | guessed word longer than list of pairs.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:72:Test overall_correct_letters | repeated characters in guessed word with different positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:72:Test overall_correct_letters | repeated characters in guessed word with different positions is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:72:Test overall_correct_letters | repeated characters in guessed word with different positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:74:Test overall_correct_letters | correct letters with non-sequential positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:74:Test overall_correct_letters | correct letters with non-sequential positions is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:74:Test overall_correct_letters | correct letters with non-sequential positions.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:76:Test map_yellow_red_chars | empty mapping of character to char transformation with a zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:76:Test map_yellow_red_chars | empty mapping of character to char transformation with a zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:76:Test map_yellow_red_chars | empty mapping of character to char transformation with a zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:78:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:78:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:78:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:80:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:80:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:80:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:82:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Red character.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:82:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Red character is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:82:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Red character.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:84:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Green character with no target phrase found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:84:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Green character with no target phrase found is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:84:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a non-zero index and inputting a Green character with no target phrase found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:86:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index and inputting a single Yellow character with an identical target phrase.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:86:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index and inputting a single Yellow character with an identical target phrase is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:86:Test map_yellow_red_chars | non-empty mapping of character to char transformation with a zero index and inputting a single Yellow character with an identical target phrase.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:88:Test map_yellow_red_chars | alternating Yellow and Red characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:88:Test map_yellow_red_chars | alternating Yellow and Red characters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:88:Test map_yellow_red_chars | alternating Yellow and Red characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:90:Test map_yellow_red_chars | large index with multiple character colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:90:Test map_yellow_red_chars | large index with multiple character colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:90:Test map_yellow_red_chars | large index with multiple character colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:92:Test map_yellow_red_chars | characters mapped to all three colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:92:Test map_yellow_red_chars | characters mapped to all three colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:92:Test map_yellow_red_chars | characters mapped to all three colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:94:Test map_yellow_red_chars | overlapping indices with different characters and colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:94:Test map_yellow_red_chars | overlapping indices with different characters and colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:94:Test map_yellow_red_chars | overlapping indices with different characters and colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:96:Test map_yellow_red_chars | boundary conditions with high indices.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:96:Test map_yellow_red_chars | boundary conditions with high indices is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:96:Test map_yellow_red_chars | boundary conditions with high indices.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:98:Test map_chars_to_color | mapping of character to one green color transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:98:Test map_chars_to_color | mapping of character to one green color transformation is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:98:Test map_chars_to_color | mapping of character to one green color transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:100:Test map_chars_to_color | mapping of character to one grey color  transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:100:Test map_chars_to_color | mapping of character to one grey color  transformation is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:100:Test map_chars_to_color | mapping of character to one grey color  transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:102:Test map_chars_to_color | mapping of characters to green and yellow color  transformation with one instance of the same character.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:102:Test map_chars_to_color | mapping of characters to green and yellow color  transformation with one instance of the same character is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:102:Test map_chars_to_color | mapping of characters to green and yellow color  transformation with one instance of the same character.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:104:Test map_chars_to_color | mapping of multiple characters to red color transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:104:Test map_chars_to_color | mapping of multiple characters to red color transformation is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:104:Test map_chars_to_color | mapping of multiple characters to red color transformation.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:106:Test map_chars_to_color | mapping of characters with non-consecutive indices.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:106:Test map_chars_to_color | mapping of characters with non-consecutive indices is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:106:Test map_chars_to_color | mapping of characters with non-consecutive indices.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:108:Test map_chars_to_color | mapping with no color match found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:108:Test map_chars_to_color | mapping with no color match found is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:108:Test map_chars_to_color | mapping with no color match found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:110:Test map_chars_to_color | characters mapped to multiple colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:110:Test map_chars_to_color | characters mapped to multiple colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:110:Test map_chars_to_color | characters mapped to multiple colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:112:Test map_green_chars | empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:112:Test map_green_chars | empty mapping of character to char transformation with a non-zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:112:Test map_green_chars | empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:114:Test map_green_chars | non-empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:114:Test map_green_chars | non-empty mapping of character to char transformation with a non-zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:114:Test map_green_chars | non-empty mapping of character to char transformation with a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:116:Test map_green_chars | mixed mapping of Green and non-Green characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:116:Test map_green_chars | mixed mapping of Green and non-Green characters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:116:Test map_green_chars | mixed mapping of Green and non-Green characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:118:Test map_green_chars | all characters Green at a high index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:118:Test map_green_chars | all characters Green at a high index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:118:Test map_green_chars | all characters Green at a high index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:120:Test map_green_chars | no Green characters found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:120:Test map_green_chars | no Green characters found is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:120:Test map_green_chars | no Green characters found.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:122:Test map_green_chars | repeated characters with Green and non-Green mix.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:122:Test map_green_chars | repeated characters with Green and non-Green mix is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:122:Test map_green_chars | repeated characters with Green and non-Green mix.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:124:Test map_green_chars | characters after Green characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:124:Test map_green_chars | characters after Green characters is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:124:Test map_green_chars | characters after Green characters.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:126:Test sort_bindings | sorting a one element binding of pairings.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:126:Test sort_bindings | sorting a one element binding of pairings is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:126:Test sort_bindings | sorting a one element binding of pairings.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:128:Test sort_bindings | sorting a multi-element binding of pairings with different colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:128:Test sort_bindings | sorting a multi-element binding of pairings with different colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:128:Test sort_bindings | sorting a multi-element binding of pairings with different colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:130:Test sort_bindings | sorting a multi-element binding of pairings with different colors of the same index in alternating sequencing.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:130:Test sort_bindings | sorting a multi-element binding of pairings with different colors of the same index in alternating sequencing is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:130:Test sort_bindings | sorting a multi-element binding of pairings with different colors of the same index in alternating sequencing.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:132:Test sort_bindings | sorting a multi-element binding with duplicate colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:132:Test sort_bindings | sorting a multi-element binding with duplicate colors is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:132:Test sort_bindings | sorting a multi-element binding with duplicate colors.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:134:Test sort_bindings | sorting with all elements having the same index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:134:Test sort_bindings | sorting with all elements having the same index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:134:Test sort_bindings | sorting with all elements having the same index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:137:Test sort_bindings | sorting with no sorting needed.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:137:Test sort_bindings | sorting with no sorting needed is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:137:Test sort_bindings | sorting with no sorting needed.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:139:Test word_list | Pairing Four game category with the dictionary of four-letter words.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:139:Test word_list | Pairing Four game category with the dictionary of four-letter words is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:139:Test word_list | Pairing Four game category with the dictionary of four-letter words.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:141:Test match_color | Pairing Green char_color with the ANSITerminal.green color.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:141:Test match_color | Pairing Green char_color with the ANSITerminal.green color is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:141:Test match_color | Pairing Green char_color with the ANSITerminal.green color.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:143:Test match_color | Pairing Red char_color with the ANSITerminal.yellow color.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:143:Test match_color | Pairing Red char_color with the ANSITerminal.yellow color is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:143:Test match_color | Pairing Red char_color with the ANSITerminal.yellow color.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:145:Test select_random_word | randomness check for 5 letter word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:145:Test select_random_word | randomness check for 5 letter word is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:145:Test select_random_word | randomness check for 5 letter word.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:148:Test select_random_word | randomness check for Blank category.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:148:Test select_random_word | randomness check for Blank category is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:148:Test select_random_word | randomness check for Blank category.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:149:Test iter_tests | iterate through a sequence of an empty list with empty strings.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:149:Test iter_tests | iterate through a sequence of an empty list with empty strings is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:149:Test iter_tests | iterate through a sequence of an empty list with empty strings.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:151:Test iter_tests | iterate through a sequence of a multi-element non-empty list with empty strings at different indexes.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:151:Test iter_tests | iterate through a sequence of a multi-element non-empty list with empty strings at different indexes is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:151:Test iter_tests | iterate through a sequence of a multi-element non-empty list with empty strings at different indexes.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:153:Test iter_tests | iterate through a sequence of a non-empty list with empty strings at the same index and string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:153:Test iter_tests | iterate through a sequence of a non-empty list with empty strings at the same index and string values is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:153:Test iter_tests | iterate through a sequence of a non-empty list with empty strings at the same index and string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:155:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all with the same character and string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:155:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all with the same character and string values is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:155:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all with the same character and string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:157:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all at the same index and empty string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:157:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all at the same index and empty string values is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:157:Test iter_tests | iterate through a sequence of a non-empty list with empty strings all at the same index and empty string values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:159:Test update_colors | empty list of pairings with a standardized qwerty_hash letter value.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:159:Test update_colors | empty list of pairings with a standardized qwerty_hash letter value is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:159:Test update_colors | empty list of pairings with a standardized qwerty_hash letter value.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:161:Test update_colors | non-empty list of a one-element pairing with a standardized qwerty_hash letter value and a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:161:Test update_colors | non-empty list of a one-element pairing with a standardized qwerty_hash letter value and a non-zero index is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:161:Test update_colors | non-empty list of a one-element pairing with a standardized qwerty_hash letter value and a non-zero index.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:163:Test update_colors | non-empty list of multi-element pairings with a standardized qwerty_hash letter value with indexes of varying values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:163:Test update_colors | non-empty list of multi-element pairings with a standardized qwerty_hash letter value with indexes of varying values is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:163:Test update_colors | non-empty list of multi-element pairings with a standardized qwerty_hash letter value with indexes of varying values.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:165:Test combine_list | combining an empty list with that of an empty string .
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:165:Test combine_list | combining an empty list with that of an empty string  is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:165:Test combine_list | combining an empty list with that of an empty string .
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:167:Test combine_list | combining a list of one element with type string and a string with its corresponding type.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:167:Test combine_list | combining a list of one element with type string and a string with its corresponding type is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:167:Test combine_list | combining a list of one element with type string and a string with its corresponding type.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Start test test suite:169:Test combine_list | combining a list of one element with type float and a string with its corresponding type.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: Test test suite:169:Test combine_list | combining a list of one element with type float and a string with its corresponding type is successful.
+2023-12-16T04:16:59+00:00 Youssefs-MBP#02 I: End test test suite:169:Test combine_list | combining a list of one element with type float and a string with its corresponding type.
