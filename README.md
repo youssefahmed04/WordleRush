@@ -4,6 +4,8 @@
 
 WordleRush is an innovative, terminal-based version of the popular Wordle game, enhanced with a multitude of game modes and interactive features. This project transforms the traditional Wordle experience into a dynamic and engaging activity, suitable for all types of players.
 
+<img src="./data/WordleRush.png">
+
 ## Features
 
 ### Multi-Mode Gameplay
